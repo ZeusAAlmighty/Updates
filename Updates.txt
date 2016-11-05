@@ -1,0 +1,8 @@
+UPDATE LOG
+
+--04/11/2016--
++Release of Villoux Realms
++Initial release includes bare bones features.
++Background added
++Client configured
++Server configured
