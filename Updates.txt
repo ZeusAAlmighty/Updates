@@ -6,6 +6,9 @@ UPDATE LOG
 +Background added
 +Client configured
 +Server configured
++Fishing added partially
++Farming added partially
++Market configured
 
 --07/11/2016--
 +Edited some databasing
@@ -19,3 +22,4 @@ UPDATE LOG
 +Sorted out TPS
 +Solved Realm TPS issue
 +Solved "Account in use" issue
++(Can now begin adding new dungeons, behaviours and stuff to realm)
