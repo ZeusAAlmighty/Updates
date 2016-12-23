@@ -25,16 +25,16 @@
 +Arena made and configured (Thanks to Slendergo)
 +Desc of Arena: A dungeon which players can open, the first person inside becomes the "Spawner" who has access to a User Interface which allows the user to buy "Tokens" which are used to spawn things. Each Token = 100 fame
 +Arena configured and released
-
+-----------------------
 +Custom dungeons started
 +Custom dungeons finished mostly
 +Desc of Custom Dungeons: A new layout of dungeons for UDL, Abyss and a few others. Players join and are placed in the Starter room. There are 12 rooms (excluding the starter room) which the players must defeat one by one, each getting harder progressively. When room 12 is reached, the player will receive a bigger purple loot bag in the middle of the room when the wave is killed. This has a chance of having white bag items inside. The chance is as follows : Chance = Times Completed x 10. The dungeon is infinite meaning after you reach room 12, you can run back to room 1 and do it again. This time though, there will be 2 Bosses spawning in each room, and increased amounts of monsters. Each completion results in an extra boss spawning. Each completion also results in +10% of white bag item chance in final loot bag (Caps at 50%).
-
+-----------------------
 +Changed HUD around (Thanks to VoOoLoX)
 +HUD positions save
 +HUD is moveable
 +HUD is toggleable
-
+-----------------------
 +Added concept of Horde Minigame
 +Horde minigame configured and added fully
 +Testing initiated for Horde
