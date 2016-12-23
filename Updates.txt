@@ -11,7 +11,7 @@
 +Messing around with optimal TPS
 
 --09/11/2016--
-+Fully optimised databasing
++Optimised databasing
 +Optimised networking
 +Fixed pooling
 +Sorted out TPS
